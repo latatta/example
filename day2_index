@@ -1,1 +1,3 @@
-asdf
+Wrapper Class는 기본형, int, double 등의 데이터형식을 클래스로 다룰 때 사용합니다.
+	래퍼 클래스 메소드 중 가장 많이 쓰이는 것은 parseXXX [parseInt(String XX), parseDouble(String XX), ...] 입니다.
+	문자열을 해당되는 기본데이터 형식으로 변환합니다.
